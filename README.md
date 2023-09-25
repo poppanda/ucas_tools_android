@@ -4,12 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can:
+- Visit chatgpt using api-keys in Chat page.
 
-A few resources to get you started if this is your first Flutter project:
+<p align='center'>
+<img src="images/Chat.jpg" alt="drawing" width="200"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Use chatgpt for translation in Translate page.
+
+<p align='center'>
+<img src="images/Translate.jpg" alt="drawing" width="200"/>
+</p>
+
+- Automatically parse the syllabus information from UCAS website.
+<p align='center'>
+<img src="images/Syllabus.jpg" alt="drawing" width="200"/>
+</p>
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
